@@ -2,7 +2,7 @@
 
 A live, Pear Deck-style classroom game that combines the "Criminal Law" and "People Involved in
 Criminal Law" decks and adds Colorado details, diagrams, and scenario-based questions.
-Students move a marker along the scale of proof, from a hunch to proof beyond a reasonable doubt.
+Students move a marker along the scale of proof, from a hunch to proof beyond a reasonable doubt. Multiple-choice questions are scenario-based, with plausible wrong answers and many two-part answers.
 
 ## What's inside (105 slides, six acts)
 - Act I The Crime: criminal vs. civil, standards of proof, elements, mental states, felony/misdemeanor, Colorado levels, theft family, white-collar crimes
